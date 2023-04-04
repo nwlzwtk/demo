@@ -1,5 +1,10 @@
 #include<stdio.h>
 
+void fun(){
+	printf("this code has been modified!");
+	return ;
+}
+
 int main(){
 	
 	int a = 0;
